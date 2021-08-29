@@ -1,2 +1,108 @@
 String Programs:
-1.
+Q1)CharFirstOcc.c   :-
+WAP which accept string from user and accept one character.return index of first occurrence of that character
+
+Q2)CharLastOcc.c    :-
+WAP which accept string from user and accept one character.return index of last occurrence of that character
+
+Q3)CharFreq.c       :-
+WAP which accept string from user and accept one character.return frequency of that charcter
+
+Q4)CharPresent      :-
+WAP which accept string from user and accept one character.check whether the character is present in string or not
+input: Marvellous Multi OS
+		   e
+output:TRUE
+
+Q5)CheckVowel.c     :-
+WAP which accept String from user and check whether it contains vowel or not
+
+Q6)ChkEqual.c       :-
+WAP which accept two strings and checks whether both are equal or not.
+
+Q7)ConvertToLower.c :-
+WAP which accept string from user and convert it into lower case
+input: Marvellous Multi OS
+output:marvellous multi os
+
+Q8)ConvertToUpper.c :-
+WAP which accept string from user and convert it into upper case
+input: Marvellous Multi OS
+output:MARVELLOUS MULTI OS
+
+Q9)ConvertToggle.c    :-
+WAP which accept string from user and toggle the case
+input: Marvellous Multi OS
+output:mARVELLOUS mULTI os
+
+Q10)CountCapital.c    
+
+Q11)CountSmall.c
+
+Q12)CountWhiteSpaces.c
+
+Q13)DifferenceCapSmall.c
+
+Q14)DisplayDigit.c    :-
+WAP which accept string from user and display only digits from that string
+input:marve89llous121
+output:89121
+
+
+Q15)ReverseStr.c
+
+Q16)StrCpyConLow.c    :-
+WAP which accept string from user and copy that characters of that string
+into anoother string by converting all capital characters into small case
+input: Marvellous Multi OS
+output:marvellous multi os
+
+Q17)StrCpyConUpp.c     :-
+WAP which accept string from user and copy that characters of that string
+into anoother string by converting all small characters into capital case
+input: Marvellous Multi OS
+output:MARVELLOUS MULTI OS
+
+Q18)StrCpyConToggle.c  :-
+WAP which accept string from user and copy that characters of that string
+into anoother string by toggling the case
+input: Marvellous Multi OS
+output:mARVELLOUS mULTI os
+
+Q19)StrCpyCp.c          :-
+WAP which accpet string from user and copy capital
+characters of that strig into another string
+input: Marvellous Multi OS
+output:MMOS
+
+Q20)StrCpyRemoveWhiteSp.c :-
+WAP which accept string from user and copy the characters of that string into another string by removing all white spaces
+input: Marvellous Multi OS
+output: MarvellousMultiOS
+
+Q21)StrCpySmall       :-
+WAP which accpet string from user and copy small 
+characters of that strig into another string
+input: Marvellous multi OS
+output:arvellous multi
+
+Q22)StrnCat.c     :-
+WAP which accpet 2 string from user and concat second string after the
+ first string(implements strncat() function)
+input: Marvellous Infosystem
+		Logic Building
+output: Marvellous Infosystem Logic Building
+
+Q23)Strncpy.c   :-
+WAP which accpet string from user and copy the contents 
+of that strig into another string(implements strncpy() function
+input: Marvellous Multi OS
+output:Marvellous Multi OS
+
+Q24)StrncpyX.c    :-
+WAP which accpet string from user and copy the contents 
+of that strig into another string(implements strncpy() function
+input:
+	Marvellous Multi OS
+	10
+output:Marvellous
