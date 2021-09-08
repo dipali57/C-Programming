@@ -1,2 +1,2 @@
 # C-Programming
-Programs in c
+programs on digits & numbers, Array, Matrix, String, Patterns, Bitwise, Recursion, File.
